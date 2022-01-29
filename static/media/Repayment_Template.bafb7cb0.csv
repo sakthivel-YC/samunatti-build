@@ -1,0 +1,4 @@
+DemandNo,DemandDate,DemandAmount,Principal,Interest,OpeningBalance,Ending_Balance,PaymentNo,PaymentDate,Payment_Amount
+1,10-12-2020,444,2,1,2,600,0,01-01-2021,0
+2,10-01-2020,33,2,1,2,1200,0,02-01-2021,0
+3,10-02-2020,43,2,1,2,3000,0,03-01-2021,0
